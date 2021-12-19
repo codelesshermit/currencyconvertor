@@ -1,0 +1,43 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    font-size: 1.6rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0;
+}
+h1,h2,h3,h4,h5,h6,ul{
+    margin: 0;
+}
+
+main{
+    width:50%;
+    margin:auto;
+    background-color: azure;
+    padding: 2rem;
+}
+.title{
+    margin-left: 5rem;
+}
+form{
+    padding: 1rem;
+    width: 90%;
+}
+form .field-input{
+    width: 100%;
+    margin:0.5rem;
+}
+label{
+    display: block;
+}
+input{
+    width: 90%;
+    padding: 0.5rem;
+}
+button{
+    width: 50%;
+    background-color: #32cd32;
+    border-color:#32cd32;
+    height: 2.75rem;
+    font-weight: bold;
+}
